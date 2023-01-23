@@ -18,8 +18,6 @@
 
 Project Habits serves as activity recorder in order to help the user register his goals during the days of the week.
 
-## ✂️ Layout
-
 You can access and experiment the project through this [link](https://victoralva08.github.io/nlw-setup/). 
 
 ## 📞 Contact
