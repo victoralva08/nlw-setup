@@ -2,12 +2,6 @@
 
 <p align='center'> NLW is a free and exlusive course offered by Rockeseat for WEB technologies teaching. </p>
 
-<p align='center'>
-  <a href='#technologies'> Technologies </a> | 
-  <a href='#project'> Project</a> |
-  <a href='#layout'> Layout</a> |
-  <a href='#contact'> Contact</a>
-</p>
 
 <p align='center'>
  <img alt='Project Habits' src='.github/preview.png' width='100%'>
